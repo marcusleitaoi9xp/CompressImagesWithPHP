@@ -1,5 +1,5 @@
 <?php
-    class ZipHelper extends Helper 
+    class ZipHelper
     {
         /**
         * @param @files: array(array("name" => "nome-do-arquivo.jpg", "url" => "http://www.url.com.br/do/arquivo.jpg"))
