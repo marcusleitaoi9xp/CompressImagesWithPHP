@@ -55,6 +55,6 @@
                 )
             );
 
-            $this->compressZip($files, "arquivo.zip");
+            $this->compressZip($files, "arquivo");
         }
     }
