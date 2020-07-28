@@ -35,15 +35,15 @@
         {
             $files = array(
                 array(
-                    "name" => "praia",
+                    "name" => "praia.jpg",
                     "url" => "https://viajantecomum.com/wp-content/uploads/2019/04/garca-torta-953x715.jpg"
                 ),
                 array(
-                    "name" => "morangos",
+                    "name" => "morangos.jpg",
                     "url" => "https://conteudo.imguol.com.br/c/entretenimento/78/2018/02/28/morango-1519823853148_v2_1920x1280.jpg"
                 ),
                 array(
-                    "name" => "caviar",
+                    "name" => "caviar.jpg",
                     "url" => "https://s2.glbimg.com/MVaVZyFOdnGDBgVzYDkszBAI7yA=/512x320/smart/e.glbimg.com/og/ed/f/original/2019/05/01/gq095-gostocaviar-01.jpg"
                 )
             );
